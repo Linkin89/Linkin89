@@ -1,15 +1,10 @@
-![QA](1.jpg)  
+![QA](5.png)  
 Меня зовут Вадим, я прохожу обучение на авторском курсе Вадима Ксендзова "Тестирование ПО".  
 Изучаю теорию тестирования и технические инструменты. По кликабельным строкам доступно моё домашнее задание.
 - Git
->- Bash (Linux CLI)
->> - Создание, переименование, перемещение, удаление папок  
->> - Поиск файлов и текста в них
->> - Чтение лог-файлов в реальном времени с фильтром и без
->- [Postman Manual/Automation](https://github.com/Linkin89/Postman)  
->> - Отправка request на ендпоинт
->> - Загрузка переменных из request/responce в enviroment
-- [SQL](https://github.com/Linkin89/SQL)
+- Bash (Linux CLI) (Создание, переименование, перемещение, удаление папок; Поиск файлов и текста в них; Чтение лог-файлов в реальном времени с фильтром и без) 
+- [Postman Manual/Automation](https://github.com/Linkin89/Postman) (Отправка request на ендпоинт, скрипты передача переменных из request/responce в enviroment, их сравнение, запуск коллекций)  
+- [SQL](https://github.com/Linkin89/SQL) (select, join, where, order, between, create, alter, rename, drop)
 - DevTools
 - Jmeter
 - Charles
