@@ -2,7 +2,7 @@
 Меня зовут Вадим, я прошёл обучение на авторском курсе Вадима Ксендзова "Тестирование ПО".  
 По кликабельным строкам доступно моё домашнее задание.
 - GitBash (Linux CLI) (Создание, переименование, перемещение, удаление папок; Поиск файлов и текста в них; Чтение лог-файлов в реальном времени с фильтром и без; создание скриптов для выполнения простых рутинных задач)
-- [Postman Manual/Automation ДЗ](https://github.com/Linkin89/Postman) (Отправка request на endpoint, скрипты передача переменных из request/responce в enviroment, их сравнение, запуск коллекций)
+- [Postman Manual/Automation ДЗ](https://github.com/Linkin89/Postman) (Отправка request на endpoint, скрипты передача переменных из request/response в enviroment, их сравнение, запуск коллекций)
 - [SQL ДЗ](https://github.com/Linkin89/SQL) (select, join, where, order by, between, create, alter, rename, drop)
 - Научились устанавливать Android Studio и запускать эмулятор Android-устройства
 - На курсе познакомились с инструментами: Charles, Fiddler, DevTools
