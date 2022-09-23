@@ -4,5 +4,6 @@
 - GitBash (Linux CLI) (Создание, переименование, перемещение, удаление папок; Поиск файлов и текста в них; Чтение лог-файлов в реальном времени с фильтром и без; создание скриптов для выполнения простых рутинных задач) 
 - [Postman Manual/Automation](https://github.com/Linkin89/Postman) (Отправка request на ендпоинт, скрипты передача переменных из request/responce в enviroment, их сравнение, запуск коллекций)  
 - [SQL](https://github.com/Linkin89/SQL) (select, join, where, order, between, create, alter, rename, drop)
+  Кроме того решаю задачки на Stepik.org [Интерактивный тренажер по SQL](https://stepik.org/course/63054)
 - DevTools
-- Изучаю Python: прохожу курс "Поколение Python: курс для новичков" на Stepik.org
+- Изучаю Python: прохожу курс "Поколение Python: курс для новичков" на Stepik.org, [моя страничка](https://stepik.org/users/448350202)
