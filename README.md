@@ -12,7 +12,7 @@
 - [Интерактивный тренажер по SQL](https://stepik.org/course/63054)
 - [Поколение Python: курс для начинающих](https://stepik.org/course/58852) - [сертификат с отличием](https://stepik.org/cert/1726761)
 - [Тестирование ПО: Postman для тестирования API](https://stepik.org/course/120679)
-- [Jira ведение задач на электронных досках](https://stepik.org/cert/1744336)
+- [Jira ведение задач на электронных досках](https://stepik.org/course/10425) [сертификат](https://stepik.org/cert/1744336)
 ---
 Прочёл литературу по тестированию
 - Тестирование ПО - Святослав Куликов
